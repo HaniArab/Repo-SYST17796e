@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class StudentList {
 
    public static void main(String[] args) {
-      
+      System.out.println("Hello, folks!");
        Student[] students = new Student[2];
        Scanner input = new Scanner(System.in);
        
